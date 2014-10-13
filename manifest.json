@@ -1,7 +1,7 @@
 {
   "name": "Goodbye Backspace!",
   "version": "1.0.1",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "description": "Eliminates the backspace key to not return to the previous page. So simple!",
   "homepage_url": "https://github.com/javiersantos/GoodbyeBackspaceChrome",
   "icons": {
