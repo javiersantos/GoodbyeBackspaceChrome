@@ -7,3 +7,4 @@
 
 ### Version 1.0 (13 May, 2014)
 * Initial release.
+* Available on [https://chrome.google.com/webstore/detail/goodbye-backspace/eihhpbnjegaecdghghnmjccjpeojbbof](Chrome Web Store).
